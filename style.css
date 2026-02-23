@@ -24,3 +24,14 @@ button {
   margin-top: 6px;
   font-weight: bold;
 }
+
+#infoPanel {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  width: 220px;
+  background: rgba(255,255,255,0.9);
+  padding: 10px;
+  border-radius: 6px;
+  font-size: 13px;
+}
