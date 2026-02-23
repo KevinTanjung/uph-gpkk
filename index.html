@@ -11,8 +11,22 @@
   <button id="structureBtn">Structure</button>
   <button id="spatialBtn">Spatial</button>
   <button id="combinedBtn">Combined</button>
+  <button id="wireframeBtn">Wireframe</button>
+  <button id="simplifyBtn">Simplify Mesh</button>
+  <div id="fps">FPS: 0</div>
 </div>
 
-<script type="module" src="main.js"></script>
+<!-- ✅ Import Map -->
+<script type="importmap">
+{
+  "imports": {
+    "three": "https://unpkg.com/three@0.158.0/build/three.module.js",
+    "three/examples/": "https://unpkg.com/three@0.158.0/examples/jsm/"
+  }
+}
+</script>
+
+<script type="module" src="./main.js"></script>
+
 </body>
 </html>

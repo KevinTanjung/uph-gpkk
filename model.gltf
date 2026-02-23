@@ -1,0 +1,74 @@
+{
+    "asset": {
+        "version": "2.0"
+    },
+    "buffers": [
+        {
+            "uri": "data:application/octet-stream;base64,AABAwJqZGb4AAEBAAABAQJqZGb4AAEBAAABAQJqZGT4AAEBAAABAwJqZGT4AAEBAAABAwJqZGb4AAEDAAABAQJqZGb4AAEDAAABAQJqZGT4AAEDAAABAwJqZGT4AAEDAzcwswAAAAAAzMxPAMzMTwAAAAAAzMxPAMzMTwAAAQEAzMxPAzcwswAAAQEAzMxPAzcwswAAAAADNzCzAMzMTwAAAAADNzCzAMzMTwAAAQEDNzCzAzcwswAAAQEDNzCzAMzMTQAAAAAAzMxPAzcwsQAAAAAAzMxPAzcwsQAAAQEAzMxPAMzMTQAAAQEAzMxPAMzMTQAAAAADNzCzAzcwsQAAAAADNzCzAzcwsQAAAQEDNzCzAMzMTQAAAQEDNzCzAzcwswAAAAADNzCxAMzMTwAAAAADNzCxAMzMTwAAAQEDNzCxAzcwswAAAQEDNzCxAzcwswAAAAAAzMxNAMzMTwAAAAAAzMxNAMzMTwAAAQEAzMxNAzcwswAAAQEAzMxNAMzMTQAAAAADNzCxAzcwsQAAAAADNzCxAzcwsQAAAQEDNzCxAMzMTQAAAQEDNzCxAMzMTQAAAAAAzMxNAzcwsQAAAAAAzMxNAzcwsQAAAQEAzMxNAMzMTQAAAQEAzMxNAAAABAAIAAgADAAAAAQAFAAYABgACAAEABQAEAAcABwAGAAUABAAAAAMAAwAHAAQAAwACAAYABgAHAAMABAAFAAEAAQAAAAQACAAJAAoACgALAAgACQANAA4ADgAKAAkADQAMAA8ADwAOAA0ADAAIAAsACwAPAAwACwAKAA4ADgAPAAsADAANAAkACQAIAAwAEAARABIAEgATABAAEQAVABYAFgASABEAFQAUABcAFwAWABUAFAAQABMAEwAXABQAEwASABYAFgAXABMAFAAVABEAEQAQABQAGAAZABoAGgAbABgAGQAdAB4AHgAaABkAHQAcAB8AHwAeAB0AHAAYABsAGwAfABwAGwAaAB4AHgAfABsAHAAdABkAGQAYABwAIAAhACIAIgAjACAAIQAlACYAJgAiACEAJQAkACcAJwAmACUAJAAgACMAIwAnACQAIwAiACYAJgAnACMAJAAlACEAIQAgACQA",
+            "byteLength": 840
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 480,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 480,
+            "byteLength": 360,
+            "target": 34963
+        }
+    ],
+    "accessors": [
+        {
+            "bufferView": 0,
+            "componentType": 5126,
+            "count": 40,
+            "type": "VEC3",
+            "max": [
+                3.0,
+                3.0,
+                3.0
+            ],
+            "min": [
+                -3.0,
+                -0.15,
+                -3.0
+            ]
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5123,
+            "count": 180,
+            "type": "SCALAR"
+        }
+    ],
+    "meshes": [
+        {
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 0
+                    },
+                    "indices": 1
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "mesh": 0
+        }
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "scene": 0
+}
